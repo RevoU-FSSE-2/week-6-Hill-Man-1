@@ -1,0 +1,10 @@
+{
+    "author": "Hilman S",
+    "name": "practice_docker_app",
+    "version": "1.0.0",
+    "description": "Node.js on Docker",
+    "scripts":
+    {
+    "start": "node practice.js"
+    }
+}
