@@ -12,22 +12,22 @@ Times have changed, though, and instead of focusing on single servers, the Inter
 ## FIRST STEP
 ### Install Docker Desktop
 1. In The First Step Open Your Browser And Go To The Desktop Docker Web Page. After That On The Start Page Of The Website You Will Find A Button Then Download According To Your Operating System. Like The Following Example, I Use The Windows Operating System, So On The Initial Page Of The Website You Will See A Download Button With The Windows Operating System.
-<br>
-![download_docker](/Screenshot/1%20install%20docker%20desktop.png)
-<br>
 
-2. After The Download Is Complete Open And Install Docker Desktop. After The Installer Is Open Click The Ok Button And After That Docker Desktop Will Install Automatically And We Only Need To Wait Until The Install Process Is Complete. After The Installation Is Complete You Will See A Screen Like The Following
+![download_docker](/Screenshot/1%20install%20docker%20desktop.png)
+
+1. After The Download Is Complete Open And Install Docker Desktop. After The Installer Is Open Click The Ok Button And After That Docker Desktop Will Install Automatically And We Only Need To Wait Until The Install Process Is Complete. After The Installation Is Complete You Will See A Screen Like The Following
 - **Installation Start**
-<br>
+
     ![install_docker](/Screenshot/2a%20install.png)
-<br>
+
 - **Installation Finish**
-<br>
+
     ![finish_installation_docker](/Screenshot/2b%20finish%20install.png)
-<br>
+
 - **Docker Desktop**
+- 
   ![docker_desktop](/Screenshot/3b%20docker%20desktop1.png)
-  <br>
+  
 
 1. There Are 2 Ways To Make Sure The Docker System Is Running, The First Is After We Open Docker Desktop, Make Sure The Docker Icon Provides Information With The Running Status As Shown In The Image Below With The Icon At The Bottom Right.
 <br>
