@@ -13,7 +13,7 @@ Times have changed, though, and instead of focusing on single servers, the Inter
 ### Install Docker Desktop
 1. In The First Step Open Your Browser And Go To The Desktop Docker Web Page. After That On The Start Page Of The Website You Will Find A Button Then Download According To Your Operating System. Like The Following Example, I Use The Windows Operating System, So On The Initial Page Of The Website You Will See A Download Button With The Windows Operating System.
 <br>
-![download_docker](./New%20folder/1%20install%20docker%20desktop.png)
+![download_docker](/New%20folder/1%20install%20docker%20desktop.png)
 <br>
 
 2. After The Download Is Complete Open And Install Docker Desktop. After The Installer Is Open Click The Ok Button And After That Docker Desktop Will Install Automatically And We Only Need To Wait Until The Install Process Is Complete. After The Installation Is Complete You Will See A Screen Like The Following
