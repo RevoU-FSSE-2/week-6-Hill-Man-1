@@ -25,19 +25,19 @@ Times have changed, though, and instead of focusing on single servers, the Inter
     ![finish_installation_docker](/Screenshot/2b%20finish%20install.png)
 
 - **Docker Desktop**
-- 
-  ![docker_desktop](/Screenshot/3b%20docker%20desktop1.png)
   
+  ![docker_desktop](/Screenshot/3b%20docker%20desktop1.png)
+
 
 1. There Are 2 Ways To Make Sure The Docker System Is Running, The First Is After We Open Docker Desktop, Make Sure The Docker Icon Provides Information With The Running Status As Shown In The Image Below With The Icon At The Bottom Right.
-<br>
+
    **The First Way To Check Docker Running And See That Docker Has Been Successfully Installed**
-   <br>
+   
    ![icon_docker_running](/Screenshot/3.%20docker%20dekstop.png)
-   <br>
+   
     **The Second Way To Check Docker Running And See That Docker Has Been Successfully Installed**
     The second way open your CLI after that type the command `docker --version` , `docker -v` or `docker version` I usually use the `docker version` command because the information displayed is quite complete, apart from giving info about the Docker version, it will also display the client and server versions as shown below.
-    <br>
+    
     ![docker--version](/Screenshot/4.%20docker%20version.png)
     ![docker_version](/Screenshot/4b%20docker%20version.png)
 
@@ -45,10 +45,10 @@ Times have changed, though, and instead of focusing on single servers, the Inter
 ### Dockerhub, Create JS File, dockerfile, package.json
 #### dockerhub
 After You Have Successfully Installed And Run Docker Desktop You Can Download The Image Which Will Be Stored In Your Docker As You Can See Here I Tried To Find The node.js Image. And As You Can See There Is A "Docker Pull Node" Command. If You Write This Command Into Your CLI, Docker Will Download And Save The node.Js Image In Your Docker. But Here We Will Not Save The Existing Image But How To Create A node.js Image
-   <br>
+   
    **Docker Hub**
    ![docker_hub](/Screenshot/5.%20dockerhub.png)
-   <br>
+   
    
 #### Create JS File
 The First Step Is To Create A Node.Js Image, I Have A Java Script File That Contains The Following
